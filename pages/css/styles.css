@@ -196,7 +196,7 @@ footer.page-footer {
   height: auto;
   overflow:auto;
   padding-top: 1.5%;
-  padding-bottom: 1.5%;
+  /* padding-bottom: 1.5%; */
 }
 
 .footNote{
