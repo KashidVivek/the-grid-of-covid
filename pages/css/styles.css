@@ -191,15 +191,11 @@ footer.page-footer {
 }
 
 .knowDiff{
-  background-color: #000000;
-  width: auto;
-  height: auto;
-  overflow:auto;
-  padding-top: 1.5%;
-  /* padding-bottom: 1.5%; */
+  background-color: #202020;
+  color:white;
 }
 
 .footNote{
-  background-color: #202020;
+  background-color: #000000;
   color: #ffffff;
 }
